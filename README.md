@@ -11,6 +11,7 @@ In the catalog below you will find all solutions ready to deploy, click on it an
 - [Data Analytics Platform event-driven](./data-analytics-platform-event-driven)
 - [Data Analytics Platform scheduled](./data-analytics-platform-scheduled)
 - [GKE Autopilot with HPA example](./gke-autopilot-hpa/)
+- [GKE VPA recommendations](./gke-vpa-recommendations/)
 - [GKE Standard with NGINX](./gke-standard-nginx/)
 - [Private Cloud Data Fusion](./private-cloud-data-fusion/)
 - [Replicating Databases to BigQuery](./replicating-databases-bigquery/)
